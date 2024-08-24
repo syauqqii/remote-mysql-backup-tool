@@ -113,4 +113,7 @@ def main():
     logging.info("Backup script finished")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        exit()
