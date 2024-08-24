@@ -1,0 +1,23 @@
+{
+  "config": {
+    "deletedays": 10,
+    "localuser": "root",
+    "localpass": ""
+  },
+  "backups": [
+    {
+      "sshhost": "127.0.0.1",
+      "sshuser": "admin",
+      "dbuser": "root",
+      "dbname": "testing-1",
+      "dbpass": ""
+    },
+    {
+      "sshhost": "192.168.1.1",
+      "sshuser": "admin",
+      "dbuser": "root",
+      "dbname": "testing-2",
+      "dbpass": ""
+    }
+  ]
+}
