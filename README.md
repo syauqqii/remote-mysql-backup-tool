@@ -36,7 +36,7 @@ Pastikan Anda memiliki hal-hal berikut sebelum menjalankan skrip ini:
 
 3. **Konfigurasi:**
 
-   Penjelasan Konfigurasi:
+   Penjelasan (Konfigurasi)[https://github.com/syauqqii/remote-mysql-backup-tool/blob/main/config.json]:
 
    - deletedays: Jumlah hari sebelum backup dihapus secara otomatis.
    - localuser: User MySQL lokal untuk mengimpor backup.
